@@ -1,0 +1,15 @@
+{
+	"author": { 
+		"name" : "Martin Carvalho",
+		"email" : "martincarvalho@gmail.com",
+		"url" : "http://martincarvalho.com/"
+	},
+	"require": {
+		"whatsapp/chat-api": "^2.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"Mensageiro\\": "app/lib/"
+		}
+	}
+}
